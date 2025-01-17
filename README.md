@@ -1,4 +1,4 @@
-![Amazon Reviews Analysis Banner](AmazonReviewsBanner.png)
+
 
 # AmazonReviewsAnalysis 📊🛒
 
