@@ -37,7 +37,7 @@ unzip datos.zip -d data
 ```
 This will extract the necessary .json files inside the `datos/` folder.
 
-### 3️⃣ Run the GPS Application
+### 3️⃣ Run the Application
 ```sh
 python src/menu_visualizacion.py
 ```
