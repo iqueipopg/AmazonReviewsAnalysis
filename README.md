@@ -102,7 +102,7 @@ This project was developed as part of a **Database and Machine Learning course**
 - **Open-source contributors** whose work made this possible.
 
 ### 👨‍💻 Developers:
-- **Ignacio Queipo de Llano Pérez-Gascón**
 - **Beltrán Sánchez Careaga**
+- **Ignacio Queipo de Llano Pérez-Gascón**
 
 We extend our gratitude to all **open-source projects** that contributed to the development of **AmazonReviewsAnalysis**. 🚀
