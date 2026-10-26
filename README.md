@@ -4,7 +4,7 @@
 
 **AmazonReviewsAnalysis** is a project focused on analyzing **Amazon product reviews** by integrating relational and non-relational databases. The project leverages **MySQL** for structured data, **MongoDB** for semi-structured data, and **Neo4J** for graph-based analysis, enabling visualization and extraction of insights from user and product relationships.
 
-This project was developed as part of a **Database and Machine Learning** course at **Universidad Pontificia Comillas, ICAI**.
+This project was developed for the **Databases** course (second year of the Mathematical Engineering and AI degree) at **Universidad Pontificia Comillas, ICAI**.
 
 ## 📜 Table of Contents
 - [📌 Project Overview](#-project-overview)
@@ -94,7 +94,7 @@ You can interact with the program via the command line.
 
 ## 🙌 Credits
 
-This project was developed as part of a **Database and Machine Learning course** at **Universidad Pontificia Comillas, ICAI**.
+This project was developed for the **Databases** course of the **Mathematical Engineering and AI** degree at **Universidad Pontificia Comillas, ICAI**.
 
 ### 🎓 Special Thanks To:
 - **Professors and mentors** for their guidance.
@@ -106,3 +106,7 @@ This project was developed as part of a **Database and Machine Learning course**
 - **Ignacio Queipo de Llano Pérez-Gascón**
 
 We extend our gratitude to all **open-source projects** that contributed to the development of **AmazonReviewsAnalysis**. 🚀
+
+## License
+
+The code is released under the [MIT License](LICENSE).
